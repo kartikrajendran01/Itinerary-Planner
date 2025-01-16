@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_763a1bc6cc81a535f47d5b1fb03b59d7 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_763a1bc6cc81a535f47d5b1fb03b59d7" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_763a1bc6cc81a535f47d5b1fb03b59d7 = L.map(
+                "map_763a1bc6cc81a535f47d5b1fb03b59d7",
+                {
+                    center: [18.52007614701273, 73.8489181654576],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ee26a4686fced10330a52edeefc187b5 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_ee26a4686fced10330a52edeefc187b5.addTo(map_763a1bc6cc81a535f47d5b1fb03b59d7);
+        
+    
+            var marker_73f0c1d02ea301dcdf1130c2a4d2f85d = L.marker(
+                [18.52007614701273, 73.8489181654576],
+                {}
+            ).addTo(map_763a1bc6cc81a535f47d5b1fb03b59d7);
+        
+    
+        var popup_a1f996328a6b5872efec96558be6c14a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7fae20b73a7ceb8866055204cde2d8e9 = $(`<div id="html_7fae20b73a7ceb8866055204cde2d8e9" style="width: 100.0%; height: 100.0%;">Shree Omkareshwar Temple</div>`)[0];
+                popup_a1f996328a6b5872efec96558be6c14a.setContent(html_7fae20b73a7ceb8866055204cde2d8e9);
+            
+        
+
+        marker_73f0c1d02ea301dcdf1130c2a4d2f85d.bindPopup(popup_a1f996328a6b5872efec96558be6c14a)
+        ;
+
+        
+    
+    
+            var marker_76801d8ca5c880595e1df9cc587d1a30 = L.marker(
+                [18.514103799828355, 73.85368742874172],
+                {}
+            ).addTo(map_763a1bc6cc81a535f47d5b1fb03b59d7);
+        
+    
+        var popup_573fb049ad514087c1a8b58433b90b4e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_919d02849a0d87300f93f5b4a0497a14 = $(`<div id="html_919d02849a0d87300f93f5b4a0497a14" style="width: 100.0%; height: 100.0%;">Vishrambaug Wada</div>`)[0];
+                popup_573fb049ad514087c1a8b58433b90b4e.setContent(html_919d02849a0d87300f93f5b4a0497a14);
+            
+        
+
+        marker_76801d8ca5c880595e1df9cc587d1a30.bindPopup(popup_573fb049ad514087c1a8b58433b90b4e)
+        ;
+
+        
+    
+    
+            var marker_5fc7d5ec183c537bdeec9bb2e238e247 = L.marker(
+                [18.510944931031492, 73.8544736152462],
+                {}
+            ).addTo(map_763a1bc6cc81a535f47d5b1fb03b59d7);
+        
+    
+        var popup_207bb0cde8b2886d1973a1b09b182ee5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fb13ca2d98df562bae1f36bf3ee8270a = $(`<div id="html_fb13ca2d98df562bae1f36bf3ee8270a" style="width: 100.0%; height: 100.0%;">Raja Dinkar Kelkar Museum</div>`)[0];
+                popup_207bb0cde8b2886d1973a1b09b182ee5.setContent(html_fb13ca2d98df562bae1f36bf3ee8270a);
+            
+        
+
+        marker_5fc7d5ec183c537bdeec9bb2e238e247.bindPopup(popup_207bb0cde8b2886d1973a1b09b182ee5)
+        ;
+
+        
+    
+    
+            var marker_4233ac48955c04e33d057f862c492229 = L.marker(
+                [18.502522970818852, 73.8522534519643],
+                {}
+            ).addTo(map_763a1bc6cc81a535f47d5b1fb03b59d7);
+        
+    
+        var popup_fc9bf1260207e943eaacc09ef8e2326e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b9ad6c4ea12813a2164782bec579a237 = $(`<div id="html_b9ad6c4ea12813a2164782bec579a237" style="width: 100.0%; height: 100.0%;">Peshwe Energy Park</div>`)[0];
+                popup_fc9bf1260207e943eaacc09ef8e2326e.setContent(html_b9ad6c4ea12813a2164782bec579a237);
+            
+        
+
+        marker_4233ac48955c04e33d057f862c492229.bindPopup(popup_fc9bf1260207e943eaacc09ef8e2326e)
+        ;
+
+        
+    
+    
+            var marker_ae896db0628ea6a1d3fde734404345c7 = L.marker(
+                [18.497107562704247, 73.84669667133328],
+                {}
+            ).addTo(map_763a1bc6cc81a535f47d5b1fb03b59d7);
+        
+    
+        var popup_8998b444850956d22d99e6a1eaba9af3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9ae0e74fb5ee5f86f8ae77688fb54f0a = $(`<div id="html_9ae0e74fb5ee5f86f8ae77688fb54f0a" style="width: 100.0%; height: 100.0%;">Parvati Hill</div>`)[0];
+                popup_8998b444850956d22d99e6a1eaba9af3.setContent(html_9ae0e74fb5ee5f86f8ae77688fb54f0a);
+            
+        
+
+        marker_ae896db0628ea6a1d3fde734404345c7.bindPopup(popup_8998b444850956d22d99e6a1eaba9af3)
+        ;
+
+        
+    
+    
+            var marker_2bf1b20a677ebbf52693f40b9f47f93b = L.marker(
+                [18.51606844331251, 73.8420795691576],
+                {}
+            ).addTo(map_763a1bc6cc81a535f47d5b1fb03b59d7);
+        
+    
+        var popup_1193438b8164853211265f3d97806dde = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_618683166fcb68e24d4c89a4646a684e = $(`<div id="html_618683166fcb68e24d4c89a4646a684e" style="width: 100.0%; height: 100.0%;">HongKong Lane</div>`)[0];
+                popup_1193438b8164853211265f3d97806dde.setContent(html_618683166fcb68e24d4c89a4646a684e);
+            
+        
+
+        marker_2bf1b20a677ebbf52693f40b9f47f93b.bindPopup(popup_1193438b8164853211265f3d97806dde)
+        ;
+
+        
+    
+    
+            var poly_line_0243fa789a8ee215e166a30921d3f773 = L.polyline(
+                [[18.52007614701273, 73.8489181654576], [18.514103799828355, 73.85368742874172], [18.510944931031492, 73.8544736152462], [18.502522970818852, 73.8522534519643], [18.497107562704247, 73.84669667133328], [18.51606844331251, 73.8420795691576]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1, "smoothFactor": 1.0, "stroke": true, "weight": 2.5}
+            ).addTo(map_763a1bc6cc81a535f47d5b1fb03b59d7);
+        
+</script>
+</html>

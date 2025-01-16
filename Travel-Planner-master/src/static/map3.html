@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_2cc184e7da4b6898393c3ba92fb5ac1e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_2cc184e7da4b6898393c3ba92fb5ac1e" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_2cc184e7da4b6898393c3ba92fb5ac1e = L.map(
+                "map_2cc184e7da4b6898393c3ba92fb5ac1e",
+                {
+                    center: [18.524473787710175, 73.82991990778628],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_e1d247f297916c4a2f2f66fcf6d1add7 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_e1d247f297916c4a2f2f66fcf6d1add7.addTo(map_2cc184e7da4b6898393c3ba92fb5ac1e);
+        
+    
+            var marker_0a6bd7857c8bf65b5c5093087d1a9c59 = L.marker(
+                [18.524473787710175, 73.82991990778628],
+                {}
+            ).addTo(map_2cc184e7da4b6898393c3ba92fb5ac1e);
+        
+    
+        var popup_c4ba07c6f48443579d5dd890d2de53e3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1ced45ee6d99c3bcfb625f3ce560c744 = $(`<div id="html_1ced45ee6d99c3bcfb625f3ce560c744" style="width: 100.0%; height: 100.0%;">Dr Babasaheb Ambedkar Museum & Memorial</div>`)[0];
+                popup_c4ba07c6f48443579d5dd890d2de53e3.setContent(html_1ced45ee6d99c3bcfb625f3ce560c744);
+            
+        
+
+        marker_0a6bd7857c8bf65b5c5093087d1a9c59.bindPopup(popup_c4ba07c6f48443579d5dd890d2de53e3)
+        ;
+
+        
+    
+    
+            var marker_86387d6623a1c7eb86c00b808d64a8cf = L.marker(
+                [18.524162376856545, 73.82584678480984],
+                {}
+            ).addTo(map_2cc184e7da4b6898393c3ba92fb5ac1e);
+        
+    
+        var popup_a5de4c730a88e3fd6b16502ccbd81ba2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_509ab77808a40eede77e467133994185 = $(`<div id="html_509ab77808a40eede77e467133994185" style="width: 100.0%; height: 100.0%;">Darpan Art Gallery</div>`)[0];
+                popup_a5de4c730a88e3fd6b16502ccbd81ba2.setContent(html_509ab77808a40eede77e467133994185);
+            
+        
+
+        marker_86387d6623a1c7eb86c00b808d64a8cf.bindPopup(popup_a5de4c730a88e3fd6b16502ccbd81ba2)
+        ;
+
+        
+    
+    
+            var marker_29e39bed963c3f99eef65b7b33729332 = L.marker(
+                [18.53929394385383, 73.82837574224219],
+                {}
+            ).addTo(map_2cc184e7da4b6898393c3ba92fb5ac1e);
+        
+    
+        var popup_10690abfc77a0f41bacdd968783b986d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b1b71094ec2ce217fc338742ad19355b = $(`<div id="html_b1b71094ec2ce217fc338742ad19355b" style="width: 100.0%; height: 100.0%;">Shri Chatushrungi Devi Temple</div>`)[0];
+                popup_10690abfc77a0f41bacdd968783b986d.setContent(html_b1b71094ec2ce217fc338742ad19355b);
+            
+        
+
+        marker_29e39bed963c3f99eef65b7b33729332.bindPopup(popup_10690abfc77a0f41bacdd968783b986d)
+        ;
+
+        
+    
+    
+            var poly_line_be06f45d046f301dfaa6ce73a14c0476 = L.polyline(
+                [[18.524473787710175, 73.82991990778628], [18.524162376856545, 73.82584678480984], [18.53929394385383, 73.82837574224219]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1, "smoothFactor": 1.0, "stroke": true, "weight": 2.5}
+            ).addTo(map_2cc184e7da4b6898393c3ba92fb5ac1e);
+        
+</script>
+</html>

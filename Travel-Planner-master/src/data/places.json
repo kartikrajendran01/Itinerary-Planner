@@ -1,0 +1,1165 @@
+{    
+  "Shaniwar Wada": {
+    "TAG": "Historical Fort",
+    "RATING": "4.3",
+    "REVIEWS": "120093",
+    "ADDRESS": "Shaniwar Peth, Pune, Maharashtra 411030",
+    "COORDINATES": {
+      "LATITUDE": "18.519617281292728",
+      "LONGITUDE": "73.85530676539125"
+    },
+    "TIME": 1.0,
+    "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPoRwUw8dhz_DzhkPoe7XoyCAR-Fp_FrpfTdSY=w408-h306-k-no",
+    "DISTRICT": "Pune city",
+    "COST": 5.0
+  },
+    "Sinhagad Fort": {
+      "TAG": "Historical Fort",
+      "RATING": "4.6",
+      "REVIEWS": "58894",
+      "ADDRESS": "Sinhagad Ghat Rd, Thoptewadi, Maharashtra 411025",
+      "COORDINATES": {
+        "LATITUDE": "18.366445008293873",
+        "LONGITUDE": "73.7558562422267"
+      },
+      "TIME": 3.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPoRwUw8dhz_DzhkPoe7XoyCAR-Fp_FrpfTdSY=w408-h306-k-no",
+      "DISTRICT": "Near Sinhagad",
+      "COST": 20.0
+    },
+    "Aga Khan Palace": {
+      "TAG": "Museum",
+      "RATING": "4.3",
+      "REVIEWS": "24841",
+      "ADDRESS": "HW22+XHW, Nagar Road, Samrat Ashok Rd, Pune, Maharashtra 411006",
+      "COORDINATES": {
+        "LATITUDE": "18.552763738849595",
+        "LONGITUDE": "73.90149921525976"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 5.0
+    },
+    "Raja Dinkar Kelkar Museum": {
+      "TAG": "Museum",
+      "RATING": "4.4",
+      "REVIEWS": "10830",
+      "ADDRESS": "No. 1377/78, Kamal Kunj, Bajirao Rd, Natu Baag, Shukrawar Peth, Pune, Maharashtra 411002",
+      "COORDINATES": {
+        "LATITUDE": "18.510944931031492",
+        "LONGITUDE": "73.8544736152462"
+      },
+      "TIME": 2.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPoRwUw8dhz_DzhkPoe7XoyCAR-Fp_FrpfTdSY=w408-h306-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 100.0
+    },
+    "Pataleshwar Cave Temple": {
+      "TAG": "Temple",
+      "RATING": "4.5",
+      "REVIEWS": "11248",
+      "ADDRESS": "GVG2+J5G, Jangali Maharaj Rd, Shivajinagar, Pune, Maharashtra 411005",
+      "COORDINATES": {
+        "LATITUDE": "18.52683787975943",
+        "LONGITUDE": "73.85043779990497"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Parvati Hill": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.4",
+      "REVIEWS": "2147",
+      "ADDRESS": "Parvati Paytha, Pune, Maharashtra 411009",
+      "COORDINATES": {
+        "LATITUDE": "18.497107562704247",
+        "LONGITUDE": "73.84669667133328"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Shreemant Dagdusheth Halwai Ganpati Mandir": {
+      "TAG": "Temple",
+      "RATING": "4.8",
+      "REVIEWS": "156731",
+      "ADDRESS": "Ganpati Bhavan, 250, Chhatrapati Shivaji Maharaj Rd, Mehunpura, Budhwar Peth, Pune, Maharashtra 411002",
+      "COORDINATES": {
+        "LATITUDE": "18.51665860206769",
+        "LONGITUDE": "73.85612217107082"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Rajiv Gandhi Zoological Park": {
+      "TAG": "Zoo",
+      "RATING": "4.1",
+      "REVIEWS": "61737",
+      "ADDRESS": "Pune - Satara Rd, opp. Katraj Dairy, Katraj, Pune, Maharashtra 411046",
+      "COORDINATES": {
+        "LATITUDE": "18.452668978627454",
+        "LONGITUDE": "73.86079769991673"
+      },
+      "TIME": 4.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "kondhva - katraj ring road",
+      "COST": 40.0
+    },
+    "Laal Mahal": {
+      "TAG": "Historical Landmark",
+      "RATING": "4.5",
+      "REVIEWS": "7161",
+      "ADDRESS": "Chhatrapati Shivaji Maharaj Rd, Durvankur Society, Kasba Peth, Pune, Maharashtra 411011",
+      "COORDINATES": {
+        "LATITUDE": "18.51897219897147",
+        "LONGITUDE": "73.85663757109181"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Khadakwasla Dam": {
+      "TAG": "Dam",
+      "RATING": "4.3",
+      "REVIEWS": "19810",
+      "ADDRESS": "Khadakwasla Dam, Khadakwasla Village, Khadakwasla, Pune, Maharashtra 411025",
+      "COORDINATES": {
+        "LATITUDE": "18.438687372006935",
+        "LONGITUDE": "73.77249299988776"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Near Sinhagad",
+      "COST": 0.0
+    },
+    "Pune-Okayama Friendship Garden": {
+      "TAG": "Garden",
+      "RATING": "4.5",
+      "REVIEWS": "27884",
+      "ADDRESS": "FRRQ+H35, Sinhgad Rd, Pune Okayama Friendship Garden, Dattawadi, Pune, Maharashtra 411030",
+      "COORDINATES": {
+        "LATITUDE": "18.491570035925314",
+        "LONGITUDE": "73.83767805575123"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 5.0
+    },
+    "Mahadji Shinde Chhatri": {
+      "TAG": "Historical Landmark",
+      "RATING": "4.3",
+      "REVIEWS": "4572",
+      "ADDRESS": "FVRW+MW3, Wanawadi Rd, Pune Cantonment, Pune, Maharashtra 411001",
+      "COORDINATES": {
+        "LATITUDE": "18.49184486034415",
+        "LONGITUDE": "73.8973721306015"
+      },
+      "TIME": 2.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "camp to hadapsar",
+      "COST": 10.0
+    },
+    "Bhaja Caves": {
+      "TAG": "Caves",
+      "RATING": "4.4",
+      "REVIEWS": "6907",
+      "ADDRESS": "PFHJ+9J3, Bhaje Caves Road, District, near Bhaja Village, Maval, Lonavala, Maharashtra 412106",
+      "COORDINATES": {
+        "LATITUDE": "18.72863167762791",
+        "LONGITUDE": "73.48155642871885"
+      },
+      "TIME": 2.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Mumbai - Pune Highway",
+      "COST": 5.0
+    },
+    "Fergusson College Road": {
+      "TAG": "Street",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Shivajinagar, Pune, Maharashtra",
+      "COORDINATES": {
+        "LATITUDE": "18.523069339589544",
+        "LONGITUDE": "73.83889034223417"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Vishrambaug Wada": {
+      "TAG": "Historical Landmark",
+      "RATING": "4.3",
+      "REVIEWS": "2217",
+      "ADDRESS": "619, RB Kumthekar Rd, Perugate, Sadashiv Peth, Pune, Maharashtra 411030",
+      "COORDINATES": {
+        "LATITUDE": "18.514103799828355",
+        "LONGITUDE": "73.85368742874172"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Vetal Tekdi": {
+      "TAG": "Mountain peak",
+      "RATING": "4.5",
+      "REVIEWS": "1338",
+      "ADDRESS": "Pashan, Pune, Maharashtra 411038",
+      "COORDINATES": {
+        "LATITUDE": "18.527157946337045",
+        "LONGITUDE": "73.8153844993833"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Mulshi Dam": {
+      "TAG": "Dam",
+      "RATING": "4.5",
+      "REVIEWS": "1602",
+      "ADDRESS": "Maharashtra 412108",
+      "COORDINATES": {
+        "LATITUDE": "18.530875337859197",
+        "LONGITUDE": "73.51118829988164"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "",
+      "COST": 0.0
+    },
+    "Laxmi Road": {
+      "TAG": "Street",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Ganesh Peth, Pune, Maharashtra",
+      "COORDINATES": {
+        "LATITUDE": "18.515413407218272",
+        "LONGITUDE": "73.86905668322372"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Pashan Lake": {
+      "TAG": "Lake",
+      "RATING": "4.0",
+      "REVIEWS": "1361",
+      "ADDRESS": "Pashan, Pune, Maharashtra 411021",
+      "COORDINATES": {
+        "LATITUDE": "18.535499285219963",
+        "LONGITUDE": "73.78909530317198"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Near Hinjewadi",
+      "COST": 0.0
+    },
+    "Panshet Dam": {
+      "TAG": "Dam",
+      "RATING": "4.5",
+      "REVIEWS": "663",
+      "ADDRESS": "Panshet, pune, Maharashtra 412107",
+      "COORDINATES": {
+        "LATITUDE": "18.385459478215004",
+        "LONGITUDE": "73.6057091874676"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Near Sinhagad",
+      "COST": 0.0
+    },
+    "Bund Garden Road": {
+      "TAG": "Street",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Sangamvadi, Pune, Maharashtra 411001",
+      "COORDINATES": {
+        "LATITUDE": "18.541490809083143",
+        "LONGITUDE": "73.88398817902903"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "camp to hadapsar",
+      "COST": 0.0
+    },
+    "Joshi's Museum Of Miniature Railways": {
+      "TAG": "Museum",
+      "RATING": "4.1",
+      "REVIEWS": "2394",
+      "ADDRESS": "17/1 B/2, Late GA Kulkarni Path, near Karishma Society, Kothrud, Pune, Maharashtra 411038",
+      "COORDINATES": {
+        "LATITUDE": "18.501815421933983",
+        "LONGITUDE": "73.82233427106034"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 120.0
+    },
+    "Shri Chatushrungi Devi Temple": {
+      "TAG": "Temple",
+      "RATING": "4.6",
+      "REVIEWS": "14113",
+      "ADDRESS": "971, Senapati Bapat Rd, Sheti Mahamandal, Shivaji Co operative Housing Society, Ramoshivadi, Gokhalenagar, Pune, Maharashtra 411016",
+      "COORDINATES": {
+        "LATITUDE": "18.53929394385383",
+        "LONGITUDE": "73.82837574224219"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Krushnai Water Park & Resort": {
+      "TAG": "WaterPark",
+      "RATING": "3.7",
+      "REVIEWS": "4633",
+      "ADDRESS": "Base, Gat No. 186, Donje Gaon-Sinhagad Road, Sinhgad Rd, Donje Gaon, Maharashtra 411025",
+      "COORDINATES": {
+        "LATITUDE": "18.40556549034751",
+        "LONGITUDE": "73.76917447106712"
+      },
+      "TIME": 3.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Near to Mumbai-Banglore highway",
+      "COST": 800.0
+    },
+    "ISKCON NVCC Pune": {
+      "TAG": "Temple",
+      "RATING": "4.7",
+      "REVIEWS": "30240",
+      "ADDRESS": "ISKCON TEMPLE AND NVCC, Katraj - Kondhwa Rd, Tilekar Nagar, Kondhwa Budruk, Pune, Maharashtra 411048",
+      "COORDINATES": {
+        "LATITUDE": "18.448975824828274",
+        "LONGITUDE": "73.88084481340304"
+      },
+      "TIME": 1.5,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "kondhva - katraj ring road",
+      "COST": 0.0
+    },
+    "Mahatma Phule Museum": {
+      "TAG": "Museum",
+      "RATING": "4.1",
+      "REVIEWS": "1912",
+      "ADDRESS": "1204/10, Ghole Rd, Shivajinagar, Pune, Maharashtra 411004",
+      "COORDINATES": {
+        "LATITUDE": "18.52377891952091",
+        "LONGITUDE": "73.84544535758765"
+      },
+      "TIME": 2.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 10.0
+    },
+    "Empress Botanical Garden": {
+      "TAG": "Garden",
+      "RATING": "4.0",
+      "REVIEWS": "12621",
+      "ADDRESS": "Empress Garden, Pune - Solapur Rd, near race course tower, Empress Garden, Kavade Mala, Pune Cantonment, Pune, Maharashtra 411001",
+      "COORDINATES": {
+        "LATITUDE": "18.512570102250077",
+        "LONGITUDE": "73.89791119990319"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "camp to hadapsar",
+      "COST": 20.0
+    },
+    "Diamond Water Parks": {
+      "TAG": "WaterPark",
+      "RATING": "3.9",
+      "REVIEWS": "5183",
+      "ADDRESS": "Survey No. 41, JX25+X44, B2, Diamond Water Park Rd, Lohegaon, Pune, Maharashtra 411047",
+      "COORDINATES": {
+        "LATITUDE": "18.606932780993247",
+        "LONGITUDE": "73.9572703710825"
+      },
+      "TIME": 3.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "wagholi",
+      "COST": 973.0
+    },
+    "Shri Mandhardevi Kalubai Mandir": {
+      "TAG": "Temple",
+      "RATING": "4.7",
+      "REVIEWS": "1952",
+      "ADDRESS": "2VWG+JC6, Mandhardev Rd, Mandhardev, Maharashtra 412803",
+      "COORDINATES": {
+        "LATITUDE": "18.046799025115757",
+        "LONGITUDE": "73.87600784223973"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "kondhva - katraj ring road",
+      "COST": 0.0
+    },
+    "SkyJumper Trampoline Park": {
+      "TAG": "Trampoline Park",
+      "RATING": "4.9",
+      "REVIEWS": "25191",
+      "ADDRESS": "Level-02, FOUNTAIN HOUSE, CREATICITY MALL, Shastrinagar, Yerawada, Pune, Maharashtra 411006",
+      "COORDINATES": {
+        "LATITUDE": "18.55719648980716",
+        "LONGITUDE": "73.89346359991671"
+      },
+      "TIME": 2.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "wagholi",
+      "COST": 500.0
+    },
+    "Taljai Hills": {
+      "TAG": "Mountain peak",
+      "RATING": "4.5",
+      "REVIEWS": "2105",
+      "ADDRESS": "Taljai Forest Area, Pune, Maharashtra",
+      "COORDINATES": {
+        "LATITUDE": "18.4800550298814",
+        "LONGITUDE": "73.84015542681384"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "kondhva - katraj ring road",
+      "COST": 0.0
+    },
+    "Balaji Mandir": {
+      "TAG": "Temple",
+      "RATING": "4.7",
+      "REVIEWS": "11239",
+      "ADDRESS": "Ketkawale Balaji Road, Pune, Maharashtra 412205",
+      "COORDINATES": {
+        "LATITUDE": "18.25702490114476",
+        "LONGITUDE": "73.93235267100172"
+      },
+      "TIME": 2.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "",
+      "COST": 0.0
+    },
+    "Osho Teerth Park": {
+      "TAG": "Garden",
+      "RATING": "4.1",
+      "REVIEWS": "3889",
+      "ADDRESS": "GVPR+89R, D. H. Dhunjibhoy Road, Between Lane Number 2 and 3, Koregaon Rd, Koregaon Park, Pune, Maharashtra 411001",
+      "COORDINATES": {
+        "LATITUDE": "18.53610217604384",
+        "LONGITUDE": "73.89068137107388"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "camp to hadapsar",
+      "COST": 0.0
+    },
+    "Tribal Museum": {
+      "TAG": "Museum",
+      "RATING": "4.4",
+      "REVIEWS": "199",
+      "ADDRESS": "28, Queen's Garden, Near VVIP Circuit House, Koregaon Park Road, Pune - 411001",
+      "COORDINATES": {
+        "LATITUDE": "18.529908666407472",
+        "LONGITUDE": "73.88582671349367"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPoRwUw8dhz_DzhkPoe7XoyCAR-Fp_FrpfTdSY=w408-h306-k-no",
+      "DISTRICT": "camp to hadapsar",
+      "COST": 10.0
+    },
+      "SHREE CHHATRAPATI SHIVAJI MAHARAJ MUSEUM & INDIAN HISTORY": {
+        "TAG": "Museum",
+        "RATING": "4.5",
+        "REVIEWS": "667",
+        "ADDRESS": "Wadgaon Shinde Road, Gulabhari Vasti, Pune, Wadgaon Shinde, Maharashtra 411047",
+        "COORDINATES": {
+          "LATITUDE": "18.62250836696771",
+          "LONGITUDE": "73.94391872651606"
+        },
+        "TIME": 3.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPoRwUw8dhz_DzhkPoe7XoyCAR-Fp_FrpfTdSY=w408-h306-k-no",
+        "DISTRICT": "wagholi",
+        "COST": 20.0
+      },
+      "Mahatma Gandhi Road": {
+        "TAG": "Street",
+        "RATING": "4.4",
+        "REVIEWS": "661",
+        "ADDRESS": "Mahatma Gandhi Road, Central Street Camp, Pune, Maharashtra, 411001",
+        "COORDINATES": {
+          "LATITUDE": "18.50655113879762",
+          "LONGITUDE": "73.87845513229401"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "camp to hadapsar",
+        "COST": 0.0
+      },
+      "BAPS Swaminarayan Mandir": {
+        "TAG": "Street",
+        "RATING": "4.7",
+        "REVIEWS": "10866",
+        "ADDRESS": "A1-B1, Mumbai-Bengaluru National Higway, 4, Narhe Ambegaon Rd, Narhe, Pune, Maharashtra 411041",
+        "COORDINATES": {
+          "LATITUDE": "18.449711087777963",
+          "LONGITUDE": "73.83716646751381"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPoRwUw8dhz_DzhkPoe7XoyCAR-Fp_FrpfTdSY=w408-h306-k-no",
+        "DISTRICT": "kondhva - katraj ring road",
+        "COST": 100.0
+      },
+      "Mahatma Phule Market": {
+        "TAG": "Market",
+        "RATING": "4.0",
+        "REVIEWS": "315",
+        "ADDRESS": "Mahatma Phule Market, MAHATMA JYOTIBA PHULE MANDAI, Amrale Rd, Mandai, Shukrawar Peth, Pune, Maharashtra 411002",
+        "COORDINATES": {
+          "LATITUDE": "18.51811899506215",
+          "LONGITUDE": "73.85559467142711"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 0.0
+      },
+      "Seven Wonders Dream Park": {
+        "TAG": "Garden",
+        "RATING": "3.9",
+        "REVIEWS": "2100",
+        "ADDRESS": "1, Shiv Darshan Rd, Anurag Society, Sivadarshan Poorgrasta Vasahat, Parvati Paytha, Pune, Maharashtra 411009",
+        "COORDINATES": {
+          "LATITUDE": "18.49998962053642",
+          "LONGITUDE": "73.85348011631058"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 20.0
+      },
+      "Saras Ganesh Mandir": {
+        "TAG": "Temple",
+        "RATING": "4.6",
+        "REVIEWS": "14000",
+        "ADDRESS": "Sarasbaug, Pune, MH Saras Baug, Pune, Maharashtra, 411030",
+        "COORDINATES": {
+          "LATITUDE": "18.508901440375226",
+          "LONGITUDE": "73.85309716206406"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 0.0
+      },
+      "Blades of Glory Cricket Museum": {
+        "TAG": "Museum",
+        "RATING": "4.6",
+        "REVIEWS": "1800",
+        "ADDRESS": "Govind Gaurav Apartments., Swanand Society Lane 1, Sahakar Nagar 2, Swanand Society, Tulshibagwale Colony, Parvati Paytha, Pune, Maharashtra 411009",
+        "COORDINATES": {
+          "LATITUDE": "18.452668978627454",
+          "LONGITUDE": "73.86079769991673"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 200.0
+      },
+      "Shree Kasba Ganapati Mandal": {
+        "TAG": "Temple",
+        "RATING": "4.7",
+        "REVIEWS": "2630",
+        "ADDRESS": "159, Kasba Peth Rd, Durvankur Society, Phadke Haud, Kasba Peth, Pune, Maharashtra 411011",
+        "COORDINATES": {
+          "LATITUDE": "18.519628931787484",
+          "LONGITUDE": "73.85697464952388"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 0.0
+      },
+      "Butterfly Trampoline Park": {
+        "TAG": "Trampoline Park",
+        "RATING": "4.8",
+        "REVIEWS": "37000",
+        "ADDRESS": "NO-283/2 & 284, HPWG+8J9, S, 1, Hinjawadi Phase 2 Rd, Phase 1, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Pimpri-Chinchwad, Maharashtra 411057",
+        "COORDINATES": {
+          "LATITUDE": "18.595990225171782",
+          "LONGITUDE": "73.72656240778834"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near Hinjewadi",
+        "COST": 650.0
+      },
+      "Paud Road": {
+        "TAG": "Street",
+        "RATING": "3.6",
+        "REVIEWS": "78",
+        "ADDRESS": "Paud Road,Mahatma Society, Kothrud, Pune, Maharashtra 411038",
+        "COORDINATES": {
+          "LATITUDE": "18.506759554494714",
+          "LONGITUDE": "73.82745177374682"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 5.0
+      },
+      "HongKong Lane": {
+        "TAG": "Street",
+        "RATING": "4.0",
+        "REVIEWS": "1800",
+        "ADDRESS": "Pulachi Wadi, Deccan Gymkhana, Pune, Maharashtra 411004",
+        "COORDINATES": {
+          "LATITUDE": "18.51606844331251",
+          "LONGITUDE": "73.8420795691576"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 10.0
+      },
+      "Katraj Snake Park Lake": {
+        "TAG": "Snake Park",
+        "RATING": "4.3",
+        "REVIEWS": "1200",
+        "ADDRESS": "Katraj Snake Park,Katraj, Pune, Maharashtra, 411046",
+        "COORDINATES": {
+          "LATITUDE": "18.45289605920574",
+          "LONGITUDE": "73.86081234321583"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "kondhva - katraj ring road",
+        "COST": 40.0
+      },
+      "Dr Babasaheb Ambedkar Museum & Memorial": {
+        "TAG": "Museum",
+        "RATING": "4.7",
+        "REVIEWS": "1190",
+        "ADDRESS": "GRFH+MXW, Senapati Bapat Rd, Opposite Passport Office, Hanuman Nagar, Wadarvadi, Pune, Maharashtra 411004",
+        "COORDINATES": {
+          "LATITUDE": "18.524473787710175",
+          "LONGITUDE": "73.82991990778628"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 10.0
+      },
+      "Katraj Lake": {
+        "TAG": "Lake",
+        "RATING": "4.2",
+        "REVIEWS": "9900",
+        "ADDRESS": "CVV7+Q5H, Katraj Vasahat, Katraj, Pune, Maharashtra 411046",
+        "COORDINATES": {
+          "LATITUDE": "18.444672569708242",
+          "LONGITUDE": "73.86301515196257"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "kondhva - katraj ring road",
+        "COST": 0.0
+      },
+      "Ramdara temple": {
+        "TAG": "Temple",
+        "RATING": "4.6",
+        "REVIEWS": "10653",
+        "ADDRESS": "C2V8+FXW, Ramdara-Loni Kalbhor Rd, Pune, Maharashtra 412201",
+        "COORDINATES": {
+          "LATITUDE": "18.44404121478283",
+          "LONGITUDE": "74.01748225196258"
+        },
+        "TIME": 3.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "camp to hadapsar",
+        "COST": 10.0
+      },
+      "Shree Gajanan Maharaj Temple": {
+        "TAG": "Temple",
+        "RATING": "4.6",
+        "REVIEWS": "313",
+        "ADDRESS": "GRFW+5H5, Shivajinagar, Pune, Maharashtra 411004",
+        "COORDINATES": {
+          "LATITUDE": "18.523157081621058",
+          "LONGITUDE": "73.84652498080055"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 0.0
+      },
+      "Peshwe Energy Park": {
+        "TAG": "Energy Park",
+        "RATING": "4.3",
+        "REVIEWS": "3723",
+        "ADDRESS": "9, Sane Guruji Road, Municipal Colony, Pune, Maharashtra 411030",
+        "COORDINATES": {
+          "LATITUDE": "18.502522970818852",
+          "LONGITUDE": "73.8522534519643"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 20.0
+      },
+      "Pimpri Chinchwad Science Park": {
+        "TAG": "Science Park",
+        "RATING": "4.3",
+        "REVIEWS": "6033",
+        "ADDRESS": "JQQX+CPJ, Kalewadi Road, IBMR College Rd, Science Park Marg, near Auto Cluster Exhibition Center, Anna Sahib Nagar, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019",
+        "COORDINATES": {
+          "LATITUDE": "18.6404752377332",
+          "LONGITUDE": "73.80001227107144"
+        },
+        "TIME": 4.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near PCMC",
+        "COST": 150.0
+      },
+      "Varasgaon Dam": {
+        "TAG": "Dam",
+        "RATING": "4.4",
+        "REVIEWS": "254",
+        "ADDRESS": "Near Mose River, Varasgaon, Kharakvasla, Velhe, Pune District, Maharashtra, 412107",
+        "COORDINATES": {
+          "LATITUDE": "18.389403506773636",
+          "LONGITUDE": "73.52931940839558"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near Sinhagad",
+        "COST": 0.0
+      },
+      "Stepin Adventure": {
+        "TAG": "Adventure Park",
+        "RATING": "4.2",
+        "REVIEWS": "197",
+        "ADDRESS": "3, Anand Complex, Paud Rd, above Lenskart Showroom, Vrindavan Colony, Alkapuri Society, Kothrud, Pune, Maharashtra 411038",
+        "COORDINATES": {
+          "LATITUDE": "18.507331544622435",
+          "LONGITUDE": "73.80658035952149"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 0.0
+      },
+      "Shivsrushti Historical theme park Pune": {
+        "TAG": "Museum",
+        "RATING": "4.5",
+        "REVIEWS": "705",
+        "ADDRESS": "Bhintade Nagar, Janaki Nagar, Ambegaon Budruk, Pune, Maharashtra 411046",
+        "COORDINATES": {
+          "LATITUDE": "18.457050267975294",
+          "LONGITUDE": "73.83576643662006"
+        },
+        "TIME": 3.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near to Mumbai-Banglore highway",
+        "COST": 350.0
+      },
+      "Kanifnath Temple": {
+        "TAG": "Temple",
+        "RATING": "4.4",
+        "REVIEWS": "64",
+        "ADDRESS": "CRXH+V24, Sushrut Rd, Narhe, Pune, Maharashtra 411041",
+        "COORDINATES": {
+          "LATITUDE": "18.449886639994883",
+          "LONGITUDE": "73.82763686730564"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "camp to hadapsar",
+        "COST": 0.0
+      },
+      "Shree Omkareshwar Temple": {
+        "TAG": "Temple",
+        "RATING": "4.7",
+        "REVIEWS": "5061",
+        "ADDRESS": "Balgandharva Bridge, 233 Near, Chandrashekhar Govind Aapte Rd, Shaniwar Peth, Pune, Maharashtra 411030",
+        "COORDINATES": {
+          "LATITUDE": "18.52007614701273",
+          "LONGITUDE": "73.8489181654576"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 0.0
+      },
+      "Manas Lake": {
+        "TAG": "Lake",
+        "RATING": "4.2",
+        "REVIEWS": "487",
+        "ADDRESS": "Bhugaon Pune, Pune, Maharashtra, 411052, India",
+        "COORDINATES": {
+          "LATITUDE": "18.496004509643463",
+          "LONGITUDE": "73.73537392733077"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near to Mumbai-Banglore highway",
+        "COST": 0.0
+      },
+      "National War Memorial Southern Command": {
+        "TAG": "Memorial",
+        "RATING": "4.8",
+        "REVIEWS": "8321",
+        "ADDRESS": "GVFQ+7V3, Prince of Wales Dr Rd, Ghorpuri Lines, Dobarwadi, Ghorpadi, Pune, Maharashtra 411001",
+        "COORDINATES": {
+          "LATITUDE": "18.52346698874717",
+          "LONGITUDE": "73.88973879445227"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "camp to hadapsar",
+        "COST": 0.0
+      },
+      "Wagheshwar Temple": {
+        "TAG": "Temple",
+        "RATING": "4.8",
+        "REVIEWS": "500",
+        "ADDRESS": "MW34+9JW Wagheshwar Temple, Gaon, Wagholi, Charholi Budruk, Pune, Maharashtra 412105",
+        "COORDINATES": {
+          "LATITUDE": "18.67174766238445",
+          "LONGITUDE": "73.90580528704493"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "wagholi",
+        "COST": 0.0
+      },
+      "Late Sanjay Mahadeo Nimhan Gram Sanskruti Udyan": {
+        "TAG": "Garden",
+        "RATING": "4.8",
+        "REVIEWS": "500",
+        "ADDRESS": "Ward No. 9, Ward No. 8, Someshwarwadi, Pashan, Pune, Maharashtra 411008",
+        "COORDINATES": {
+          "LATITUDE": "18.546799129768484",
+          "LONGITUDE": "73.79819107126275"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near Hinjewadi",
+        "COST": 50.0
+      },
+      "SmritiVan": {
+        "TAG": "Garden",
+        "RATING": "4.4",
+        "REVIEWS": "304",
+        "ADDRESS": "63, Warje, Pune, Maharashtra 411052",
+        "COORDINATES": {
+          "LATITUDE": "18.491762166981935",
+          "LONGITUDE": "73.79701467373023"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near to Mumbai-Banglore highway",
+        "COST": 20.0
+      },
+      "Baner Hill": {
+        "TAG": "Mountain peak",
+        "RATING": "4.5",
+        "REVIEWS": "521",
+        "ADDRESS": "Baner, Pune, Maharashtra 411021",
+        "COORDINATES": {
+          "LATITUDE": "18.560235335209516",
+          "LONGITUDE": "73.7912776848285"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near Hinjewadi",
+        "COST": 0.0
+      },
+      "Darshan Museum": {
+        "TAG": "Museum",
+        "RATING": "4.5",
+        "REVIEWS": "885",
+        "ADDRESS": "10, Sadhu Vaswani Rd, near G.P.O, Agarkar Nagar, Pune, Maharashtra 411001",
+        "COORDINATES": {
+          "LATITUDE": "18.524616025849692",
+          "LONGITUDE": "73.87664706776253"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "camp to hadapsar",
+        "COST": 0.0
+      },
+      "Kamala Nehru Park": {
+        "TAG": "Garden",
+        "RATING": "4.3",
+        "REVIEWS": "10063",
+        "ADDRESS": "Lane Number 11, Harshavardhan Society, Deccan Gymkhana, Pune, Maharashtra 411004",
+        "COORDINATES": {
+          "LATITUDE": "18.530713297523512",
+          "LONGITUDE": "73.83544335551335"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 0.0
+      },
+      "Dighi Hills": {
+        "TAG": "Mountain peak",
+        "RATING": "4.6",
+        "REVIEWS": "669",
+        "ADDRESS": "Dighi, Pimpri-Chinchwad, Maharashtra 411015",
+        "COORDINATES": {
+          "LATITUDE": "18.624402788815512",
+          "LONGITUDE": "73.8854860802251"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near PCMC",
+        "COST": 0.0
+      },
+      "Zapurza Museum of Art & Culture": {
+        "TAG": "Museum",
+        "RATING": "4.7",
+        "REVIEWS": "1771",
+        "ADDRESS": "ahead of peacock bay, survey number 65 Kudje village, Pune, Maharashtra 411023",
+        "COORDINATES": {
+          "LATITUDE": "18.417949932426367",
+          "LONGITUDE": "73.73713737682087"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near Sinhagad",
+        "COST": 100.0
+      },
+      "Katraj Jain Temple,Aagam Mandir": {
+        "TAG": "Temple",
+        "RATING": "4.6",
+        "REVIEWS": "3699",
+        "ADDRESS": "Late Manilala Fakirchand Marg, Sai Colony, Vadgaon Budruk, Pune, Maharashtra 411046",
+        "COORDINATES": {
+          "LATITUDE": "18.446630337376885",
+          "LONGITUDE": "73.85364818790796"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "kondhva - katraj ring road",
+        "COST": 0.0
+      },
+      "ISKCON Pune Camp": {
+        "TAG": "Temple",
+        "RATING": "4.7",
+        "REVIEWS": "10009",
+        "ADDRESS": "4, Colonel Tarapore Rd, beside Dastoor Boys School, Camp, Pune, Maharashtra 411001",
+        "COORDINATES": {
+          "LATITUDE": "18.521012832143075",
+          "LONGITUDE": "73.87940875354568"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "camp to hadapsar",
+        "COST": 0.0
+      },
+      "Mastani Mahal": {
+        "TAG": "Historical Landmark",
+        "RATING": "3",
+        "REVIEWS": "52",
+        "ADDRESS": "AAROHI HOUSING SOCIETY, Arohi, Vidya Valley School Rd, Parkhe Vasti, Sus, Pune, Maharashtra 412115",
+        "COORDINATES": {
+          "LATITUDE": "18.546799129768484",
+          "LONGITUDE": "73.79819107126275"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near Hinjewadi",
+        "COST": 15.0
+      },
+      "Joggers Park": {
+        "TAG": "Garden",
+        "RATING": "5",
+        "REVIEWS": "10",
+        "ADDRESS": "CQRX+M3X, DSK Vishwa, Dhayari, Pune, Maharashtra 411041",
+        "COORDINATES": {
+          "LATITUDE": "18.45605673751151",
+          "LONGITUDE": "73.79533182828447"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "wagholi",
+        "COST": 0.0
+      },
+      "Nilkantheshwar Mandir": {
+        "TAG": "Temple",
+        "RATING": "4.6",
+        "REVIEWS": "54",
+        "ADDRESS": "73, P/25/1, HH Prince Aga Khan Rd, Agarkar Nagar, Pune, Maharashtra 411001",
+        "COORDINATES": {
+          "LATITUDE": "18.53705381288981",
+          "LONGITUDE": "73.8738787544523"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "wagholi",
+        "COST": 0.0
+      },
+      "Dive Ghat Valley": {
+        "TAG": "Valley",
+        "RATING": "4.5",
+        "REVIEWS": "23",
+        "ADDRESS": "Saswad Road, Pune 411028 India",
+        "COORDINATES": {
+          "LATITUDE": "18.42064324904389",
+          "LONGITUDE": "73.98946172349461"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "camp to hadapsar",
+        "COST": 0.0
+      },
+      "Someshwar Temple": {
+        "TAG": "Temple",
+        "RATING": "4.5",
+        "REVIEWS": "56",
+        "ADDRESS": "Ward No. 8, Someshwarwadi, Pashan, Pune, Maharashtra 411008",
+        "COORDINATES": {
+          "LATITUDE": "18.54680593333791",
+          "LONGITUDE": "73.7984516980705" 
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near Hinjewadi",
+        "COST": 0.0
+      },
+      "Shree Trishunda Ganpati Mandir": {
+        "TAG": "Temple",
+        "RATING": "4.7",
+        "REVIEWS": "880",
+        "ADDRESS": "GVC6+MP8, Somwar Peth, Pune, Maharashtra 411002",
+        "COORDINATES": {
+          "LATITUDE": "18.52203107964634",
+          "LONGITUDE": "73.8618523033434"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 0.0
+      },
+      "Bagul Udyan": {
+        "TAG": "Garden",
+        "RATING": "4.2",
+        "REVIEWS": "2652",
+        "ADDRESS": "Tapodhan Society, Sivadarshan Poorgrasta Vasahat, Parvati Paytha, Pune, Maharashtra 411009",
+        "COORDINATES": {
+          "LATITUDE": "18.49147690274563",
+          "LONGITUDE": "73.85086806689885"
+        },
+        "TIME": 3.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "kondhva - katraj ring road",
+        "COST": 20.0
+      },
+      "Dinosaur Garden": {
+        "TAG": "Garden",
+        "RATING": "4.4",
+        "REVIEWS": "3118",
+        "ADDRESS": "Jijamata Udyan, 94/1, Prabhat Nagar, Pimple Gurav, Pimpri-Chinchwad, Maharashtra 411061",
+        "COORDINATES": {
+          "LATITUDE": "18.59246971597692",
+          "LONGITUDE": "73.81746095072506"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near PCMC",
+        "COST": 10.0
+      },
+      "Shree Sadguru Shankar Maharaj Samadhi Math": {
+        "TAG": "Temple",
+        "RATING": "4.8",
+        "REVIEWS": "11538",
+        "ADDRESS": "Satara Rd, beside Karnataka Bank, KK Market, Dhankawadi, Pune, Maharashtra 411043",
+        "COORDINATES": {
+          "LATITUDE": "18.471300041120447",
+          "LONGITUDE": "73.85752276993624"
+        },
+        "TIME": 2.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "kondhva - katraj ring road",
+        "COST": 0.0
+      },
+      "Baneshwar Mandir, Baner": {
+        "TAG": "Temple",
+        "RATING": "4.8",
+        "REVIEWS": "755",
+        "ADDRESS": "Baner Gaon, Baner, Pune, Maharashtra 411045",
+        "COORDINATES": {
+          "LATITUDE": "18.559371565725016",
+          "LONGITUDE": "73.78704891482705"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near Hinjewadi",
+        "COST": 20.0
+      },
+      "Peacock Bay": {
+        "TAG": "Garden",
+        "RATING": "4.6",
+        "REVIEWS": "54",
+        "ADDRESS": "NDA Rd | Khadakwasla, Pune, Maharashtra, 411023, India",
+        "COORDINATES": {
+          "LATITUDE": "18.47104068349111",
+          "LONGITUDE": "73.7853718214829"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Near Sinhagad",
+        "COST": 0.0
+      },
+      "Lokmanya Tilak Museum": {
+        "TAG": "Museum",
+        "RATING": "4.6",
+        "REVIEWS": "16",
+        "ADDRESS": "Geetganga Apartment, Shaniwar Peth, Pune, Maharashtra 411030",
+        "COORDINATES": {
+          "LATITUDE": "18.51613317136762",
+          "LONGITUDE": "73.84889112960859"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 0.0
+      },
+      "Darpan Art Gallery": {
+        "TAG": "Gallery",
+        "RATING": "4.3",
+        "REVIEWS": "372",
+        "ADDRESS": "Kalachhaya Campus, Patrakar Nagar Rd, Gokhalenagar, Pune, Maharashtra 411016",
+        "COORDINATES": {
+          "LATITUDE": "18.524162376856545",
+          "LONGITUDE": "73.82584678480984" 
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 0.0
+      },
+      "Yashwantrao Chavan Garden": {
+        "TAG": "Garden",
+        "RATING": "4.1",
+        "REVIEWS": "2708",
+        "ADDRESS": "Shiv Darshan Rd, Parvati, Anurag Society, Sivadarshan Poorgrasta Vasahat, Parvati Paytha, Pune, Maharashtra 411009",
+        "COORDINATES": {
+          "LATITUDE": "18.49452206492718",
+          "LONGITUDE": "73.85352405525482"
+        },
+        "TIME": 1.0,
+        "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+        "DISTRICT": "Pune city",
+        "COST": 20.0
+      }
+  }
+  

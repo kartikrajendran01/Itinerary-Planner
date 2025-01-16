@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Requirements</title>
+</head>
+<body>
+    <form action="/generate-csv" method="post">
+        <label for="places">Places:</label><br>
+        <input type="text" id="places" name="places" required><br>
+
+        <label for="starts_at_hours">Starts At (Hours):</label><br>
+        <input type="number" id="starts_at_hours" name="starts_at_hours" required><br>
+
+        <label for="starts_at_minutes">Starts At (Minutes):</label><br>
+        <input type="number" id="starts_at_minutes" name="starts_at_minutes" required><br>
+
+        <label for="ends_at_hours">Ends At (Hours):</label><br>
+        <input type="number" id="ends_at_hours" name="ends_at_hours" required><br>
+
+        <label for="ends_at_minutes">Ends At (Minutes):</label><br>
+        <input type="number" id="ends_at_minutes" name="ends_at_minutes" required><br>
+
+        <label for="total_days">Total Days:</label><br>
+        <input type="number" id="total_days" name="total_days" required><br>
+
+        <label for="total_budget">Total Budget:</label><br>
+        <input type="number" id="total_budget" name="total_budget" required><br>
+
+        <label for="user_id">User ID:</label><br
